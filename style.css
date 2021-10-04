@@ -50,12 +50,14 @@ header {
 .card {
     background-color: white;
     padding: 16px 32px;
+    /* Could have updated p tag margin instead of changing padding */
     border-bottom: 8px solid hsl(0deg, 0%, 40%);
     margin: auto;
 }
 
 .indented-heading {
     display: inline-block;
+    /* could have used width: fit-content */
     font-size: 1.25rem;
 
     margin-left: -48px;
