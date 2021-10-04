@@ -8,15 +8,15 @@ This mockup is built entirely using _flow layout_: no Flexbox, no grid, no absol
 
 Desktop:
 
-<img alt="Desktop-sized screenshot of an agency landing page" src="./docs/huckleberry-desktop.png" style="" />
+![Desktop-sized screenshot of an agency landing page](./docs/huckleberry-desktop.png)
 
 Tablet:
 
-<img alt="Desktop-sized screenshot of an agency landing page" src="./docs/huckleberry-tablet.png" style="max-width: 400px;" />
+![Tablet-sized screenshot of an agency landing page](./docs/huckleberry-tablet.png)
 
 Mobile:
 
-<img alt="Desktop-sized screenshot of an agency landing page" src="./docs/huckleberry-mobile.png" style="max-width: 300px;" />
+![Mobile-sized screenshot of an agency landing page](./docs/huckleberry-mobile.png)
 
 ## Setup Instructions
 
